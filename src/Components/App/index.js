@@ -4,7 +4,7 @@ import './App.css';
 import Masthead from '@ta-interaktiv/react-masthead';
 import '@ta-interaktiv/semantic-ui/semantic/dist/components/reset.css';
 import '@ta-interaktiv/semantic-ui/semantic/dist/components/site.css';
-
+//import { Masthead } from '@ta-interaktiv/react-masthead';
 
 import Stream from '../Stream';
 import Footer from '../Footer';
